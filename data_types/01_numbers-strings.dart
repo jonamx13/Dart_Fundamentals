@@ -1,7 +1,7 @@
 void main() {
   //String
   var something = 'Hallo'; // it can change anytime but not its data type
-  final String name = 'Tony'; // it can be declared assigned, but only once.
+  final String name = 'Tony'; // it can be judt declared and assign it later, but only once.
   const lastName = 'Stark'; // it doesn't change on compilation time
 
 //  name = 'Peter';
